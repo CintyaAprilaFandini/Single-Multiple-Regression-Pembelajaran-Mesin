@@ -1,0 +1,7 @@
+regresion dibedakan menjadi 2
+1. prediksi
+a. regresi linier tunggal (satu variabel)
+b. regresi linier berganda (banyak variabel)
+
+2. klasifikasi 
+a. regresi logistik
